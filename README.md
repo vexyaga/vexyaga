@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vexyaga aka vex
 - 👀 I’m interested in gamedev & art
-- 🌱 I’m currently learning c++ & python at uni
+- 🌱 I’m currently at uni
 - 💞️ I’m looking to collaborate on whatever sparks my interest //games, browser extensions, mobile apps etc
 - 📫 How to reach me @vexhekk or @vexyaga
 
